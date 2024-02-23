@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DheyaAlqaderi](https://github.com/DheyaAlqaderi)
 
-- 💬 Ask me about **android java, flutter, System Analysis**
+- 💬 Ask me about ** flutter, android (java - kotlin - jetpack compose), System Analysis**
 
 - 📫 How to reach me **diaa.alqadrei@gmail.com**
 
